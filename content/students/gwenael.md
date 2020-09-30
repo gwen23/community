@@ -7,7 +7,7 @@
 title: gwenael
 
 # First name or full name
-name: gwenael
+name: gwenael.
 date: 2020-09-23 17:16
 
 # One line.
